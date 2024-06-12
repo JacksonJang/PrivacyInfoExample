@@ -25,62 +25,30 @@
 				<string>DDA9.1</string>
 			</array>
 			<key>NSPrivacyAccessedAPIType</key>
-			<string>modificationDate</string>
-		</dict>
-        <dict>
-            <key>NSPrivacyAccessedAPITypeReasons</key>
-            <array>
-                <string>85F4.1</string>
-            </array>
-            <key>NSPrivacyAccessedAPIType</key>
-            <string>systemFreeSize</string>
-        </dict>
-		<dict>
-			<key>NSPrivacyAccessedAPITypeReasons</key>
-			<array>
-				<string>DDA9.1</string>
-			</array>
-			<key>NSPrivacyAccessedAPIType</key>
-			<string>creationDate</string>
-		</dict>
-		<dict>
-			<key>NSPrivacyAccessedAPITypeReasons</key>
-			<array>
-				<string>DDA9.1</string>
-			</array>
-			<key>NSPrivacyAccessedAPIType</key>
-			<string>creationDateKey</string>
-		</dict>
-		<dict>
-			<key>NSPrivacyAccessedAPITypeReasons</key>
-			<array>
-				<string>DDA9.1</string>
-			</array>
-			<key>NSPrivacyAccessedAPIType</key>
-			<string>contentModificationDateKey</string>
-		</dict>
-		<dict>
-			<key>NSPrivacyAccessedAPITypeReasons</key>
-			<array>
-				<string>DDA9.1</string>
-			</array>
-			<key>NSPrivacyAccessedAPIType</key>
-			<string>fileModificationDate</string>
-		</dict>
-		<dict>
-			<key>NSPrivacyAccessedAPITypeReasons</key>
-			<array>
-				<string>DDA9.1</string>
-			</array>
-			<key>NSPrivacyAccessedAPIType</key>
-			<string>lstat</string>
+			<string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
 		</dict>
 		<dict>
 			<key>NSPrivacyAccessedAPIType</key>
-			<string>systemUptime</string>
+			<string>NSPrivacyAccessedAPICategorySystemBootTime</string>
 			<key>NSPrivacyAccessedAPITypeReasons</key>
 			<array>
 				<string>35F9.1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>85F4.1</string>
+			</array>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryDiskSpace</string>
+		</dict>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryActiveKeyboards</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>3EC4.1</string>
 			</array>
 		</dict>
 		<dict>
